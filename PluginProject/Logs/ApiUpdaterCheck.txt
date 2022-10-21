@@ -8,3 +8,13 @@ C# parse time         : 1376ms
 candidates check time : 105ms
 console write time    : 14ms
 
+[api-updater (non-obsolete-error-filter)] 20/10/2022 07:47:56 p. m. : Starting /Volumes/TOSHIBA EXT/2020.3.37f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 718.113ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 437ms
+candidates check time : 36ms
+console write time    : 0ms
+
